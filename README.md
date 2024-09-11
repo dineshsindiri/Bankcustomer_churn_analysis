@@ -69,5 +69,8 @@ The primary objective was to create an interactive and insightful dashboard that
 **Tools:**
 Microsoft Power BI
 
+Finally, I built the report in the screenshot below, taking into account the key factors like account balance, age group, activity status, gender, credit score, e.t.c. and their effects on the churn rate. This helped me gain insights into where the bank could make neccessary improvements.
+
+
 
 
